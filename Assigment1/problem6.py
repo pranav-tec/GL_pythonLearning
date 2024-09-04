@@ -24,3 +24,4 @@ def highest_student(dataset):
     print(f"the student with highest average is {key1} with value {value1}")
 
 highest_student(dataset)
+highest_student(dataset)
